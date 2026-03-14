@@ -1,7 +1,7 @@
 # Hi there 
 <h1 align="center">Hi 👋, I'm Lohith Kumar R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-photos-vectors/coding-gif">
+<img align="right" alt="coding" width="400" src="https://giphy.com/explore/php-development">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohithdevang&label=Profile%20views&color=0e75b6&style=flat" alt="lohithdevang" /> </p>
 
